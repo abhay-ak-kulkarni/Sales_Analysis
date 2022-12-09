@@ -4,9 +4,10 @@ Sales Analysis of 12 months data.
 
 This project includes:
 1) Combining Datasets(12 months CSV combined)
-2) Data Cleaning
-3) Feature Engineering
-4) Plotting 
-5) Observation in each step
-6) Products that were bought together(frequency)
-7) Recommendations
+2) Checking for Data Quality
+3) Data Cleaning
+4) Feature Engineering
+5) Plotting 
+6) Observation in each step
+7) Products that were bought together(frequency)
+8) Recommendations
